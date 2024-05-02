@@ -4,7 +4,7 @@ source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 6.5", ">= 6.5.5"
 gem 'jekyll'
-gem 'html-proofer'
+# gem 'html-proofer'
 gem 'nokogiri'
 gem 'parallel'
 gem 'rainbow'
