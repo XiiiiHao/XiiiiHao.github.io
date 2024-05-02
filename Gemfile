@@ -3,7 +3,16 @@
 source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 6.5", ">= 6.5.5"
-
+gem 'jekyll'
+gem 'html-proofer'
+gem 'nokogiri'
+gem 'parallel'
+gem 'rainbow'
+gem 'typhoeus'
+gem 'yell'
+gem 'zeitwerk'
+gem 'racc'
+gem 'ethon'
 group :test do
   gem "html-proofer", "~> 4.4"
 end
